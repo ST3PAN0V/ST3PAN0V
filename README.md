@@ -1,11 +1,11 @@
 # Hi there! 👋
 
-I'm Artem, a backend developer currently studying at MEPhI 🎓. I have a passion for solving complex and interesting problems. My goal is to continuously learn and grow in the field of software development 🎯.
+I'm Artem, a backend developer currently studying at [*MEPhI*](https://mephi.ru/), specializing in Software Engineering 🎓. I have a passion for solving complex and interesting problems. My goal is to continuously learn and grow in the field of software development 🎯.
 
 ## 🧠 My Skills:
 
 ### Programming Languages
-[![C++](https://img.shields.io/badge/C%2B%2B-005697?style=for-the-badge&logo=C%2B%2B&labelColor=6295cb)](https://en.wikipedia.org/wiki/C%2B%2B)
+[![C++](https://img.shields.io/badge/C%2B%2B-005697?style=for-the-badge&logo=C%2B%2B&labelColor=005697)](https://en.wikipedia.org/wiki/C%2B%2B)
 [![Python](https://img.shields.io/badge/Python-%23316192?style=for-the-badge&logo=Python&labelColor=white)](https://en.wikipedia.org/wiki/Python_(programming_language))
 
 ### Databases
