@@ -5,8 +5,8 @@ I'm Artem, a backend developer currently studying at MEPhI 🎓. I have a passio
 ## 🧠 My Skills:
 
 ### Programming Languages
-[![C++](https://img.shields.io/badge/C%2B%2B-%23434C5E?style=for-the-badge&logo=C%2B%2B&labelColor=%23800000)](https://en.wikipedia.org/wiki/C%2B%2B)
-[![Python](https://img.shields.io/badge/Python-%233DAE52?style=for-the-badge&logo=Python&labelColor=white)](https://en.wikipedia.org/wiki/Python_(programming_language))
+[![C++](https://img.shields.io/badge/C%2B%2B-005697?style=for-the-badge&logo=C%2B%2B&labelColor=6295cb)](https://en.wikipedia.org/wiki/C%2B%2B)
+[![Python](https://img.shields.io/badge/Python-%23316192?style=for-the-badge&logo=Python&labelColor=white)](https://en.wikipedia.org/wiki/Python_(programming_language))
 
 ### Databases
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192?style=for-the-badge&logo=PostgreSQL&labelColor=white)](https://en.wikipedia.org/wiki/PostgreSQL)
@@ -15,25 +15,25 @@ I'm Artem, a backend developer currently studying at MEPhI 🎓. I have a passio
 ### Tools & Technologies
 [![Docker](https://img.shields.io/badge/Docker-%232496ED?style=for-the-badge&logo=Docker&labelColor=white)](https://en.wikipedia.org/wiki/Docker_(software))
 [![Git](https://img.shields.io/badge/Git-%23F05032?style=for-the-badge&logo=Git&labelColor=white)](https://en.wikipedia.org/wiki/Git)
-[![CMake](https://img.shields.io/badge/CMake-%23722B37?style=for-the-badge&logo=CMake&labelColor=white)](https://en.wikipedia.org/wiki/CMake)
+[![CMake](https://img.shields.io/badge/CMake-%23722B37?style=for-the-badge&logo=CMake&labelColor=722b37)](https://en.wikipedia.org/wiki/CMake) 
 
 ### DevOps & Monitoring
 [![Grafana](https://img.shields.io/badge/Grafana-%23F46800?style=for-the-badge&logo=Grafana&labelColor=white)](https://en.wikipedia.org/wiki/Grafana)
 [![Prometheus](https://img.shields.io/badge/Prometheus-%23E6522C?style=for-the-badge&logo=Prometheus&labelColor=white)](https://en.wikipedia.org/wiki/Prometheus_(monitoring_system))
 
 ### Networking & APIs
-[![TCP/IP](https://img.shields.io/badge/TCP%2FIP-%23008080?style=for-the-badge&logo=tcpip&logoColor=white)](https://en.wikipedia.org/wiki/Transmission_Control_Protocol/Internet_Protocol)
-[![HTTP](https://img.shields.io/badge/HTTP-%23008080?style=for-the-badge&logo=http&logoColor=white)](https://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol)
-[![SSH](https://img.shields.io/badge/SSH-%23008080?style=for-the-badge&logo=ssh&logoColor=white)](https://en.wikipedia.org/wiki/Secure_Shell)
+[![TCP/IP](https://img.shields.io/badge/TCP%2FIP-0000CD?style=for-the-badge&logo=tcpip&logoColor=white)](https://en.wikipedia.org/wiki/Transmission_Control_Protocol/Internet_Protocol)
+[![HTTP](https://img.shields.io/badge/HTTP-4169E1?style=for-the-badge&logo=http&logoColor=white)](https://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol)
+[![SSH](https://img.shields.io/badge/SSH-4682B4?style=for-the-badge&logo=ssh&logoColor=white)](https://en.wikipedia.org/wiki/Secure_Shell)
 [![REST API](https://img.shields.io/badge/REST%20API-%23007ACC?style=for-the-badge&labelColor=white)](https://restfulapi.net/)
 
 ### Testing & Debugging
 [![Unit Tests](https://img.shields.io/badge/Unit%20Tests-%234E9C1E?style=for-the-badge&labelColor=white)](https://en.wikipedia.org/wiki/Unit_testing)
-[![GDB](https://img.shields.io/badge/GDB-%234EAA4D?style=for-the-badge&logo=GNU&labelColor=white)](https://www.gnu.org/software/gdb/)
-[![Boost](https://img.shields.io/badge/Boost-%238E8B00?style=for-the-badge&logo=Boost&labelColor=white)](https://www.boost.org/)
+[![GDB](https://img.shields.io/badge/GDB-%234EAA4D?style=for-the-badge&labelColor=4eaa4d)](https://www.gnu.org/software/gdb/)
+[![Boost](https://img.shields.io/badge/Boost-f7901e?style=for-the-badge&logo=Boost&labelColor=white)](https://www.boost.org/)
 [![Catch2](https://img.shields.io/badge/Catch2-%23A25C25?style=for-the-badge&logo=c&logoColor=white)](https://github.com/catchorg/Catch2)
 [![Flamegraph](https://img.shields.io/badge/Flamegraph-%23FF7F50?style=for-the-badge&logo=flamegraph&labelColor=white)](https://github.com/brendangregg/Flamegraph)
-[![Conan](https://img.shields.io/badge/Conan-%23007D6E?style=for-the-badge&logo=conan&labelColor=white)](https://conan.io/)
+[![Conan](https://img.shields.io/badge/Conan-6699cb?style=for-the-badge&logo=conan&labelColor=white)](https://conan.io/)
 
 ### Operating Systems
 [![Ubuntu](https://img.shields.io/badge/Ubuntu-%23E95420?style=for-the-badge&logo=Ubuntu&labelColor=white)](https://en.wikipedia.org/wiki/Ubuntu)
