@@ -1,5 +1,13 @@
 # Hi there! 👋
 
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=big-silver.big-silver">
+
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Artem;Nice+to+meet+you!&center=true&size=30">
+  </a>
+</h1>
+
 I'm Artem, a backend developer currently studying at [*MEPhI*](https://mephi.ru/), specializing in Software Engineering 🎓. I have a passion for solving complex and interesting problems. My goal is to continuously learn and grow in the field of software development 🎯.
 
 ## 🧠 My Skills:
