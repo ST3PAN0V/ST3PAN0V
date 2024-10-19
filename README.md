@@ -4,8 +4,6 @@
   </a>
 </h1>
 
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=ST3PAN0V.ST3PAN0V">
-
 I'm Artem, a backend developer currently studying at [*MEPhI*](https://mephi.ru/), specializing in Software Engineering 🎓. I have a passion for solving complex and interesting problems. My goal is to continuously learn and grow in the field of software development 🎯.
 
 ## 🧠 My Skills:
