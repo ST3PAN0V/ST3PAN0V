@@ -1,10 +1,6 @@
-# Hi there! 👋
-
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=big-silver.big-silver">
-
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Artem;Nice+to+meet+you!&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;Nice+to+meet+you!&center=true&size=30">
   </a>
 </h1>
 
@@ -66,3 +62,4 @@ I'm Artem, a backend developer currently studying at [*MEPhI*](https://mephi.ru/
 
 <a href="https://t.me/ArtemS101"><img  width="60" src="https://user-images.githubusercontent.com/86986628/206201210-59b207ec-a55a-4a37-aef6-6e3b3bddd05d.png"></a>
 
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=ST3PAN0V">
