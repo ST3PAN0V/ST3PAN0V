@@ -52,11 +52,12 @@ I'm Artem, a backend developer currently studying at [*MEPhI*](https://mephi.ru/
 
 ## 👨‍💻 My Projects:
 
-* [Multiplayer online game](https://github.com/ваш-никнейм-на-github/проект2) - 
+* [TerminalAdventure](https://github.com/ST3PAN0V/TerminalAdventure) - My terminal game, try to play it! 🎮
+* [Multiplayer online game](https://github.com/ваш-никнейм-на-github/проект2) - A complex game in which I completely developed the server part and connected the database. 🐕
 
 ## 📚 My Certificates:
 
-* All my certificates and works from additional courses can be found in the repository [MyCertificates](https://github.com/ваш-никнейм-на-github/MyCertificates)
+* All my certificates and works from additional courses can be found in the repository [MySuccesses](https://github.com/ST3PAN0V/MySuccesses) 📁
 
 ## 🤝 Connect with Me:
 
