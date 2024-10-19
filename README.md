@@ -4,6 +4,7 @@
   </a>
 </h1>
 
+## 🙇 Who Am I?
 I'm Artem, a backend developer currently studying at [*MEPhI*](https://mephi.ru/), specializing in Software Engineering 🎓. I have a passion for solving complex and interesting problems. My goal is to continuously learn and grow in the field of software development 🎯.
 
 ## 🧠 My Skills:
