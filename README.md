@@ -62,8 +62,8 @@ I'm Artem, a backend developer currently studying at [*MEPhI*](https://mephi.ru/
 
 ## 📈 GitHub Stats
 
-<img width="450px" align="left" src="https://github-readme-stats.vercel.app/api?username=ST3PAN0V&count_private=false&layout=compact&show_icons=true&icon_color=5194f0&locate=en" alt='ST3PAN0V' />
-<img width="450px" src="https://github-readme-streak-stats.herokuapp.com/?user=ST3PAN0V&layout=compact&locate=en" alt="ST3PAN0V" />
+<img width="350px" align="left" src="https://github-readme-stats.vercel.app/api?username=ST3PAN0V&count_private=false&layout=compact&show_icons=true&icon_color=5194f0&locate=en" alt='ST3PAN0V' />
+<img width="350px" src="https://github-readme-streak-stats.herokuapp.com/?user=ST3PAN0V&layout=compact&locate=en" alt="ST3PAN0V" />
 
 ## 🤝 Connect with Me:
 
