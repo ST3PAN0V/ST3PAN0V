@@ -54,7 +54,7 @@ I'm Artem, a backend developer currently studying at [*MEPhI*](https://mephi.ru/
 ## 👨‍💻 My Projects:
 
 * [TerminalAdventure](https://github.com/ST3PAN0V/TerminalAdventure) - My terminal game, try to play it! 🎮
-* [Multiplayer online game](https://github.com/ваш-никнейм-на-github/проект2) - A complex game in which I completely developed the server part and connected the database. 🐕
+* [BackendPractice](https://github.com/ST3PAN0V/backend_server) - A complex game in which I completely developed the server part and connected the database. 🐕
 
 ## 📚 My Certificates:
 
