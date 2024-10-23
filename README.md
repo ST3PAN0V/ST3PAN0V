@@ -11,6 +11,7 @@ I'm Artem, a backend developer currently studying at [*MEPhI*](https://mephi.ru/
 
 ### Programming Languages
 [![C++](https://img.shields.io/badge/C%2B%2B-005697?style=for-the-badge&logo=C%2B%2B&labelColor=005697)](https://en.wikipedia.org/wiki/C%2B%2B)
+[![C](https://img.shields.io/badge/%20-C--language-%23434C5E?style=for-the-badge&logo=c&%2B%2B&labelColor=%23434C5E&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
 [![Python](https://img.shields.io/badge/Python-%23316192?style=for-the-badge&logo=Python&labelColor=white)](https://en.wikipedia.org/wiki/Python_(programming_language))
 
 ### Databases
