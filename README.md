@@ -7,7 +7,7 @@
 ## 🙇 Who Am I?
 I'm Artem, a backend developer currently studying at [*MEPhI*](https://mephi.ru/), specializing in Software Engineering 🎓. I have a passion for solving complex and interesting problems. My goal is to continuously learn and grow in the field of software development 🎯.
 
-<details><summary><b><h2>🧠 My Skills:</h2></b></summary>
+<details><summary><h2>🧠 My Skills:</h2></summary>
 
 ---
 
@@ -48,9 +48,9 @@ I'm Artem, a backend developer currently studying at [*MEPhI*](https://mephi.ru/
 [![Linux Mint](https://img.shields.io/badge/Linux%20Mint-%2300A859?style=for-the-badge&logo=LinuxMint&labelColor=white)](https://linuxmint.com/)
 [![Windows](https://img.shields.io/badge/Windows-%230078D7?style=for-the-badge&logo=Windows&labelColor=white)](https://en.wikipedia.org/wiki/Microsoft_Windows)
 
-</details>
-
 ---
+
+</details>
 
 ## 🚀 My Interests:
 
