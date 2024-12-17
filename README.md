@@ -56,13 +56,14 @@ I'm Artem, a backend developer currently studying at [*MEPhI*](https://mephi.ru/
 
 * Exploring new technologies and tools 🔧
 * Learning programming patterns and principles 🔒
+
+## 👨‍💻 My Projects & Practice:
+
+* [**TerminalAdventure**](https://github.com/ST3PAN0V/TerminalAdventure) - My terminal game, try to play it! 🎮
+* [**BackendPractice**](https://github.com/ST3PAN0V/backend_server) - A complex game in which I completely developed the server part and connected the database. 🐕
+* [**Game**](https://github.com/ST3PAN0V/Game) - my first game. I deliberately did not improve or finish anything from that time so that I could remember the pleasant past 🌱
+* [**YandexTraining**](https://github.com/ST3PAN0V/Yandex.algorithmTraining6) - Here I took a course of theoretical and practical training in algorithms. 💢
 * Solving problems on [**LeetCode**](https://leetcode.com/u/stepanov101/) ⚡
-
-## 👨‍💻 My Projects:
-
-* [TerminalAdventure](https://github.com/ST3PAN0V/TerminalAdventure) - My terminal game, try to play it! 🎮
-* [BackendPractice](https://github.com/ST3PAN0V/backend_server) - A complex game in which I completely developed the server part and connected the database. 🐕
-* [Game](https://github.com/ST3PAN0V/Game) - my first game. I deliberately did not improve or finish anything from that time so that I could remember the pleasant past 🌱
 
 ## 📚 My Certificates:
 
