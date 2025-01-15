@@ -64,6 +64,7 @@ I'm Artem, a backend developer currently studying at [*MEPhI*](https://mephi.ru/
 * Solving problems on [**LeetCode**](https://leetcode.com/u/stepanov101/) ⚡
 * [**TerminalAdventure**](https://github.com/ST3PAN0V/TerminalAdventure) - My terminal game, try to play it! 🎮
 * [**Game**](https://github.com/ST3PAN0V/Game) - my first game. I deliberately did not improve or finish anything from that time so that I could remember the pleasant past 🌱
+* [**tcp/udp/bash practice**](https://github.com/ST3PAN0V/file-transfer-udp-tcp) - My last test task that I completed ⭐
 
 ## 📚 My Certificates:
 
