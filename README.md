@@ -4,23 +4,36 @@
   </a>
 </h1>
 
-**Backend developer specializing in C++ and Python. Focused on high-load systems, asynchronous services, automation, and high-frequency trading.**
+**Artem Stepanov · Software Engineer**  
+📍 Moscow · 🎓 MEPhI · 🌍 English B2
+
+I build backend services in **C++ and Python**, focusing on high-load and asynchronous systems, APIs, automation, and latency-sensitive trading infrastructure.
+
+## 💼 Experience
+
+**Yandex · May 2025–present**
+
+- Developed a C++ ad moderation service with an ML model. In Maps, built a parser generator achieving **data-extraction F1 >93%** on multilingual pages, with **~10× lower parser development cost** and **3–5× faster generation**.
+- Built and maintained a company-data hypothesis verification service processing **tens of thousands of hypotheses daily**, with **15 sources, 10 verification tools, and 10+ integrations**. Collaborated with **three teams**.
+
+**Amicon · November 2024–May 2025**
+
+- Built Python test infrastructure from scratch for **FPSU-IP network filters/routers**: **400+ scenarios**, load and security testing, and traffic analysis with Wireshark.
 
 ## ⚡ A few facts
 
-- 📊 **[CryptoScaner](https://github.com/ST3PAN0V/MyPortfolio/blob/main/projects/02-crypto-scanner.md)** — multiple scanners share one stream of exchange quotes, with ordering checks and separate tracking of connection health and price freshness.
-- 🎁 **[UnrealSniper](https://github.com/ST3PAN0V/MyPortfolio/blob/main/projects/01-unreal-sniper.md)** — independent trading strategies share market state through Redis and are managed through a Telegram Mini App.
-- 🤖 **Local LLMs** — I build Telegram assistants for matching freelance tasks and summarizing conversations: **[Workzilla Bot](https://github.com/ST3PAN0V/MyPortfolio/blob/main/projects/07-workzilla-assistant.md)** and **[SummarySearchBot](https://github.com/ST3PAN0V/MyPortfolio/blob/main/projects/06-summary-search-bot.md)**.
-- 🏆 **Algorithms & data structures** — I strengthened my skills in Yandex Algorithm Training 6.0: **34/35 problems solved** and **141st place out of 10,000+ participants**. [📜 Certificate](https://github.com/ST3PAN0V/MyPortfolio/blob/main/Certificates/YandexAlgorithmCertificate.pdf)
+- 🎁 **[UnrealSniper](https://github.com/ST3PAN0V/MyPortfolio/blob/main/projects/01-unreal-sniper.md)** — **5 microservices**, **3 trading strategies** (arbitrage, sniping, high-frequency flipping), and **6 API integrations including the OKX crypto exchange**. Around **\$1.5m cumulative turnover over seven months (Apr–Nov 2026)** and **~\$7k/day**, counting purchases + sales. **8–10 ms average detection-to-buy latency, including ping**. Managed through a Telegram Mini App.
+- 📊 **[CryptoScaner](https://github.com/ST3PAN0V/MyPortfolio/blob/main/projects/02-crypto-scanner.md)** — **8 CEX/DEX exchanges**, monitoring **perp/perp, perp/spot, and funding** opportunities through WebSocket and REST APIs. Shared in-memory quotes, stream recovery, fee-aware calculations, and PostgreSQL signal history; **NautilusTrader provides the ready-made core**.
+- 🏆 **Algorithms & data structures** — Yandex Algorithm Training 6.0: **34/35 problems solved**, **141st out of 10,000+ participants**. [📜 Certificate](https://github.com/ST3PAN0V/MyPortfolio/blob/main/Certificates/YandexAlgorithmCertificate.pdf)
 
-## 🚀 My projects
+## 🚀 Projects & résumé
 
-[**Explore my projects → MyPortfolio**](https://github.com/ST3PAN0V/MyPortfolio)
+[**Explore MyPortfolio →**](https://github.com/ST3PAN0V/MyPortfolio) · [**Résumé (RU) →**](https://github.com/ST3PAN0V/MyPortfolio/blob/main/assets/Artem_Stepanov_CV.pdf)
 
-Project write-ups, engineering decisions, results, screenshots, and links to public source code.
+Engineering write-ups, design decisions, results, screenshots, and public source code.
 
 > ❗ **Private repositories:** some projects are private. Their portfolio pages share project descriptions and screenshots.
 
 ## 📬 Get in touch
 
-[Telegram — @ArtemS101](https://t.me/ArtemS101/)
+[Telegram — @ArtemS101](https://t.me/ArtemS101/) · [st3pnv@gmail.com](mailto:st3pnv@gmail.com)
