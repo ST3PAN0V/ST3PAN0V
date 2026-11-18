@@ -4,20 +4,23 @@
   </a>
 </h1>
 
-**Бэкенд-разработчик на C++ и Python. Асинхронные сервисы, рыночные данные и торговая автоматизация.**
+**Backend developer specializing in C++ and Python. Focused on high-load systems, asynchronous services, automation, and high-frequency trading.**
 
-## Несколько фактов
+## ⚡ A few facts
 
-- Разрабатываю **CryptoScaner** и **UnrealSniper**: сбор рыночных данных, торговые сценарии, API и интерфейсы управления.
-- Создал учебный игровой сервер на **C++20 и Boost.Asio** с сохранением состояния и таблицей результатов в PostgreSQL.
-- В Тренировках по алгоритмам 6.0 от Яндекса решил **34 из 35 задач** и занял **141-е место из 10 000+ участников**.
+- 📊 **[CryptoScaner](https://github.com/ST3PAN0V/MyPortfolio/blob/main/projects/02-crypto-scanner.md)** — multiple scanners share one stream of exchange quotes, with ordering checks and separate tracking of connection health and price freshness.
+- 🎁 **[UnrealSniper](https://github.com/ST3PAN0V/MyPortfolio/blob/main/projects/01-unreal-sniper.md)** — independent trading strategies share market state through Redis and are managed through a Telegram Mini App.
+- 🤖 **Local LLMs** — I build Telegram assistants for matching freelance tasks and summarizing conversations: **[Workzilla Bot](https://github.com/ST3PAN0V/MyPortfolio/blob/main/projects/07-workzilla-assistant.md)** and **[SummarySearchBot](https://github.com/ST3PAN0V/MyPortfolio/blob/main/projects/06-summary-search-bot.md)**.
+- 🏆 **Algorithms & data structures** — I strengthened my skills in Yandex Algorithm Training 6.0: **34/35 problems solved** and **141st place out of 10,000+ participants**. [📜 Certificate](https://github.com/ST3PAN0V/MyPortfolio/blob/main/Certificates/YandexAlgorithmCertificate.pdf)
 
-## Мои проекты
+## 🚀 My projects
 
-[**Интересные проекты → MyPortfolio**](https://github.com/ST3PAN0V/MyPortfolio)
+[**Explore my projects → MyPortfolio**](https://github.com/ST3PAN0V/MyPortfolio)
 
-Описания проектов, инженерные решения, скриншоты и ссылки на открытый код.
+Project write-ups, engineering decisions, results, screenshots, and links to public source code.
 
-## Связаться
+> ❗ **Private repositories:** some projects are private. Their portfolio pages share project descriptions and screenshots.
+
+## 📬 Get in touch
 
 [Telegram — @ArtemS101](https://t.me/ArtemS101/)
